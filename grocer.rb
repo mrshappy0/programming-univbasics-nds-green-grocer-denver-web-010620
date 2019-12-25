@@ -44,8 +44,8 @@ def apply_coupons(cart, coupons)
   
   while counter < cart.length do 
     
+    counter += 1  
   
-  while c
   # REMEMBER: This method **should** update cart
 end
 
