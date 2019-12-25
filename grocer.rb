@@ -60,8 +60,6 @@ def apply_coupons(cart, coupons)
       end
     end
     counter += 1  
-    # REMEMBER: This method **should** update cart
-    cart
   end
 end
 
