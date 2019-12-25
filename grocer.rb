@@ -57,6 +57,7 @@ def apply_coupons(cart, coupons)
           :clearance => cart_item[:clearance]
           :count => 
         }
+        
     counter += 1  
     
   # REMEMBER: This method **should** update cart
