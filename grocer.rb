@@ -58,6 +58,7 @@ def apply_coupons(cart, coupons)
           :count => 
         }
         cart << cart_item_with_coupon
+        
     counter += 1  
     
   # REMEMBER: This method **should** update cart
