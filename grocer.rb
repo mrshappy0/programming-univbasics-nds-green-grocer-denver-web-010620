@@ -63,6 +63,7 @@ def apply_coupons(cart, coupons)
     counter += 1  
     # REMEMBER: This method **should** update cart
     cart
+  end
 end
 
 def apply_clearance(cart)
