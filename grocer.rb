@@ -44,7 +44,7 @@ def apply_coupons(cart, coupons)
   
   while counter < cart.length do 
     cart_item = find_item_by_name_in_collection(coupons[counter][:item], cart)
-    
+    coupon_item
     counter += 1  
     
   # REMEMBER: This method **should** update cart
